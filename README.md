@@ -21,7 +21,7 @@ Produtividade Diária: Número de tarefas concluídas por hora de trabalho em ca
 
 Requisitos
 Python 3.x
-Pandas, numpy e matplotlib.pyplot(instalado automaticamente ao executar o script)
+Pandas, numpy,seaborn e matplotlib.pyplot(instalado automaticamente ao executar o script)
 
 
 ##Contribuição   
