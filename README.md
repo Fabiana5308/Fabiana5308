@@ -1,4 +1,4 @@
-# Relatório de Progresso Desenvolvimento de Software
+# Relatório de Progresso Desenvolvimento de Software.
 
 Este é um projeto de geração de relatório de progresso diário para um projeto de desenvolvimento de software. O relatório mostra algumas métricas importantes sobre o progresso do projeto ao longo de uma semana, permitindo ao proprietário da equipe de desenvolvimento obter insights sobre o desempenho da equipe, identificar possíveis áreas de melhoria e tomar decisões informadas para garantir o sucesso do projeto.
 
